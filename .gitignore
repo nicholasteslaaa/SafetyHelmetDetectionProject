@@ -1,0 +1,6 @@
+dataset/
+Raw_dataset/
+.vscode/
+
+__pycache__/
+*.pyc
